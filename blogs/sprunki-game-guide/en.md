@@ -2,6 +2,7 @@
 title: Sprunki Incredibox Game Guide - Sprunki Art
 description: If you're searching for a unique and immersive music-making experience, look no further than the Sprunki game, as a fan-made mod of the popular Incredibox series.
 createdAt: 2024-10-23
+cover: https://sprunki.art/sprunki-incredibox.webp
 ---
 
 # Sprunki Incredibox Game Guide - Sprunki Art
