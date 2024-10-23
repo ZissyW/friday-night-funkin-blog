@@ -16,14 +16,14 @@ For general inquiries, support, or feedback:
 
 Connect with us on social media for the latest updates, community events, and more:
 
-- Twitter: [@SprunkiArt](https://twitter.com/SprunkiArt)
-- Instagram: [@SprunkiArt](https://instagram.com/SprunkiArt)
+- Twitter: [@SprunkiArt](https://twitter.com/sprunki-art)
+- Instagram: [@SprunkiArt](https://instagram.com/sprunki-art)
 
 ## Bug Reports and Feature Requests
 
 If you've encountered a bug or have a suggestion for improving Sprunki Art, please submit it through our GitHub repository:
 
-[Sprunki Art GitHub Issues](https://github.com/sprunkiart/issues)
+[Sprunki Art GitHub](https://github.com/ZissyW/sprunki-art)
 
 ## Support Hours
 
