@@ -18,7 +18,6 @@ Connect with us on social media for the latest updates, community events, and mo
 
 - Twitter: [@SprunkiArt](https://twitter.com/SprunkiArt)
 - Instagram: [@SprunkiArt](https://instagram.com/SprunkiArt)
-- Facebook: [Sprunki Art Official](https://facebook.com/SprunkiArtOfficial)
 
 ## Bug Reports and Feature Requests
 
