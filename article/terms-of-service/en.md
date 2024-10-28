@@ -1,22 +1,22 @@
 ---
-title: Terms of Service for Sprunki Art
-description: Welcome to sprunki.art! These Terms of Service ("Terms") govern your use of the Sprunki Art website located at [sprunki.art](https://sprunki.art/) ("Website"), including all content, services, and products available at or through the website. The Website is owned and operated by Sprunki Art ("we", "us", or "our").
+title: Terms of Service for Pumpkin Café
+description: Welcome to pumpkincafe.org! These Terms of Service ("Terms") govern your use of the Pumpkin Café website located at pumpkincafe.org, including all content, services, and products available at or through the website. The Website is owned and operated by Pumpkin Café ("we", "us", or "our").
 createdAt: 2024-10-23
 ---
 
-Welcome to sprunki.art! These Terms of Service ("Terms") govern your use of the Sprunki Art website located at [sprunki.art](https://sprunki.art/) ("Website"), including all content, services, and products available at or through the website. The Website is owned and operated by Sprunki Art ("we", "us", or "our").
+Welcome to pumpkincafe.org! These Terms of Service ("Terms") govern your use of the Pumpkin Café website located at [pumpkincafe.org](https://pumpkincafe.org/) ("Website"), including all content, services, and products available at or through the website. The Website is owned and operated by Pumpkin Café ("we", "us", or "our").
 
 ## 1. Acceptance of Terms
 
-By accessing or using our Website, you agree to be bound by these Terms, including our Privacy Policy found at [sprunki.art/privacy-policy](https://sprunki.art/privacy-policy). If you disagree with any part of the terms, then you do not have permission to access the Website.
+By accessing or using our Website, you agree to be bound by these Terms, including our Privacy Policy found at [pumpkincafe.org/privacy-policy](https://pumpkincafe.org/privacy-policy). If you disagree with any part of the terms, then you do not have permission to access the Website.
 
 ## 2. Use of Website
 
-Sprunki.art offers AI-powered image generation services, enabling users to create unique images using artificial intelligence. These services are provided to you free of charge for personal, non-commercial use.
+Pumpkincafe.org offers AI-powered image generation services, enabling users to create unique images using artificial intelligence. These services are provided to you free of charge for personal, non-commercial use.
 
 ### 2.1 Ownership of Generated Content
 
-The ownership of any content generated using sprunki.art's services belongs to sprunki.art, subject to the terms outlined herein.
+The ownership of any content generated using pumpkincafe.org's services belongs to Pumpkin Café, subject to the terms outlined herein.
 
 ## 3. User Data
 
@@ -46,6 +46,6 @@ These Terms shall be governed and construed in accordance with the laws of the U
 
 ## 8. Contact Us
 
-If you have any questions about these Terms, please contact us at [hi@sprunki.art](mailto:hi@sprunki.art).
+If you have any questions about these Terms, please contact us at [hi@pumpkincafe.org](mailto:hi@pumpkincafe.org).
 
 By using our Website, you acknowledge that you have read and understand these Terms of Service and agree to be bound by them.

@@ -1,10 +1,10 @@
 ---
-title: Privacy Policy for Sprunki Art
-description: Welcome to sprunki.art! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located. This policy applies to all users of the Website.
+title: Privacy Policy for Pumpkin Café
+description: Welcome to pumpkincafe.org! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located. This policy applies to all users of the Website.
 createdAt: 2024-10-23
 ---
 
-Welcome to sprunki.art! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located at [sprunki.art](https://sprunki.art/). This policy applies to all users of the Website.
+Welcome to pumpkincafe.org! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located at [pumpkincafe.org](https://pumpkincafe.org/). This policy applies to all users of the Website.
 
 ## 1. Information We Collect
 
@@ -45,4 +45,4 @@ By using our Website, you consent to our Privacy Policy.
 
 ## 8. Contact Us
 
-If you have any questions about our Privacy Policy, please contact us at [hi@sprunki.art](mailto:hi@sprunki.art).
+If you have any questions about our Privacy Policy, please contact us at [hi@pumpkincafe.org](mailto:hi@pumpkincafe.org).
