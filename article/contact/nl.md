@@ -1,7 +1,7 @@
 ---
 title: Contact Opnemen met Pumpkin Café
 description: We horen graag van je! Of je nu vragen hebt, feedback wilt geven of gewoon gedag wilt zeggen, neem gerust contact met ons op via een van de onderstaande methoden.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 We horen graag van je! Of je nu vragen hebt, feedback wilt geven of gewoon gedag wilt zeggen, neem gerust contact met ons op via een van de onderstaande methoden.

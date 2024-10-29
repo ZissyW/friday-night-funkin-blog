@@ -1,7 +1,7 @@
 ---
 title: Skontaktuj się z Pumpkin Café
 description: Chcielibyśmy usłyszeć od Ciebie! Niezależnie od tego, czy masz pytania, uwagi lub po prostu chcesz się przywitać, skontaktuj się z nami, używając jednej z poniższych metod.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 Chcielibyśmy usłyszeć od Ciebie! Niezależnie od tego, czy masz pytania, uwagi lub po prostu chcesz się przywitać, skontaktuj się z nami, używając jednej z poniższych metod.

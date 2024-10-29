@@ -1,7 +1,7 @@
 ---
 title: Contatta Pumpkin Café
 description: Ci piacerebbe sentire la tua opinione! Che tu abbia domande, feedback o voglia semplicemente salutare, non esitare a contattarci utilizzando uno dei metodi seguenti.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 Ci piacerebbe sentire la tua opinione! Che tu abbia domande, feedback o voglia semplicemente salutare, non esitare a contattarci utilizzando uno dei metodi seguenti.

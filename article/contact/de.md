@@ -1,7 +1,7 @@
 ---
 title: Kontaktieren Sie Pumpkin Café
 description: Wir freuen uns von Ihnen zu hören! Ob Sie Fragen haben, Feedback geben möchten oder einfach nur Hallo sagen wollen - kontaktieren Sie uns gerne über eine der folgenden Möglichkeiten.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 Wir freuen uns von Ihnen zu hören! Ob Sie Fragen haben, Feedback geben möchten oder einfach nur Hallo sagen wollen - kontaktieren Sie uns gerne über eine der folgenden Möglichkeiten.

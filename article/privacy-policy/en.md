@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy for Pumpkin Café
 description: Welcome to pumpkincafe.org! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located. This policy applies to all users of the Website.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 Welcome to pumpkincafe.org! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located at [pumpkincafe.org](https://pumpkincafe.org/). This policy applies to all users of the Website.

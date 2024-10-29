@@ -1,7 +1,7 @@
 ---
 title: Terms of Service for Pumpkin Café
 description: Welcome to pumpkincafe.org! These Terms of Service ("Terms") govern your use of the Pumpkin Café website located at pumpkincafe.org, including all content, services, and products available at or through the website. The Website is owned and operated by Pumpkin Café ("we", "us", or "our").
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 Welcome to pumpkincafe.org! These Terms of Service ("Terms") govern your use of the Pumpkin Café website located at [pumpkincafe.org](https://pumpkincafe.org/) ("Website"), including all content, services, and products available at or through the website. The Website is owned and operated by Pumpkin Café ("we", "us", or "our").

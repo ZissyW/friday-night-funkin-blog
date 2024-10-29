@@ -1,7 +1,7 @@
 ---
 title: Contactez Pumpkin Café
 description: Nous aimerions avoir de vos nouvelles ! Que vous ayez des questions, des commentaires ou que vous souhaitiez simplement dire bonjour, n'hésitez pas à nous contacter par l'une des méthodes ci-dessous.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 Nous aimerions avoir de vos nouvelles ! Que vous ayez des questions, des commentaires ou que vous souhaitiez simplement dire bonjour, n'hésitez pas à nous contacter par l'une des méthodes ci-dessous.

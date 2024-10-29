@@ -1,7 +1,7 @@
 ---
 title: Kontakta Pumpkin Café
 description: Vi vill gärna höra från dig! Oavsett om du har frågor, feedback eller bara vill säga hej, är du välkommen att kontakta oss via någon av metoderna nedan.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 Vi vill gärna höra från dig! Oavsett om du har frågor, feedback eller bara vill säga hej, är du välkommen att kontakta oss via någon av metoderna nedan.

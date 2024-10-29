@@ -1,7 +1,7 @@
 ---
 title: Pumpkin Café ile İletişime Geçin
 description: Sizden haber almak isteriz! İster sorularınız olsun, ister geri bildirimde bulunmak isteyin, ister sadece merhaba demek isteyin, aşağıdaki yöntemlerden herhangi birini kullanarak bizimle iletişime geçmekten çekinmeyin.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 Sizden haber almak isteriz! İster sorularınız olsun, ister geri bildirimde bulunmak isteyin, ister sadece merhaba demek isteyin, aşağıdaki yöntemlerden herhangi birini kullanarak bizimle iletişime geçmekten çekinmeyin.

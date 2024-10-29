@@ -1,7 +1,7 @@
 ---
 title: Kontaktujte Pumpkin Café
 description: Rádi od vás uslyšíme! Ať už máte dotazy, zpětnou vazbu nebo nám jen chcete pozdravit, neváhejte nás kontaktovat pomocí některé z níže uvedených metod.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 Rádi od vás uslyšíme! Ať už máte dotazy, zpětnou vazbu nebo nám jen chcete pozdravit, neváhejte nás kontaktovat pomocí některé z níže uvedených metod.

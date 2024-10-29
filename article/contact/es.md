@@ -1,7 +1,7 @@
 ---
 title: Contacta con Pumpkin Café
 description: ¡Nos encantaría saber de ti! Ya sea que tengas preguntas, comentarios o simplemente quieras saludar, no dudes en contactarnos usando cualquiera de los métodos siguientes.
-createdAt: 2024-10-23
+createdAt: 2024-10-29
 ---
 
 ¡Nos encantaría saber de ti! Ya sea que tengas preguntas, comentarios o simplemente quieras saludar, no dudes en contactarnos usando cualquiera de los métodos siguientes.
