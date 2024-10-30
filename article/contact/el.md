@@ -21,7 +21,7 @@ createdAt: 2024-10-29
 
 Για τεχνικές συζητήσεις ή γι�� αναφορά προβλημάτων:
 
-[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-art)
+[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-blog)
 
 ### Χρόνος Απάντησης
 

@@ -21,7 +21,7 @@ En son haberlerimiz ve güncellemelerimizden haberdar olmak için bizi sosyal me
 
 Teknik tartışmalar veya sorun bildirimi için:
 
-[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-art)
+[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-blog)
 
 ### Yanıt Süresi
 

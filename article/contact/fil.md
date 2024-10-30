@@ -21,7 +21,7 @@ Sundan kami sa social media para manatiling updated sa aming pinakabagong balita
 
 Para sa mga teknikal na diskusyon o pag-uulat ng mga isyu:
 
-[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-art)
+[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-blog)
 
 ### Oras ng Pagtugon
 

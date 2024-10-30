@@ -21,7 +21,7 @@ Siga-nos nas redes sociais para ficar atualizado com nossas últimas notícias e
 
 Para discussões técnicas ou para reportar problemas:
 
-[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-art)
+[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-blog)
 
 ### Tempo de Resposta
 

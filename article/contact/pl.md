@@ -21,7 +21,7 @@ W sprawie ogólnych zapytań, wsparcia lub opinii możesz skontaktować się z n
 
 Do dyskusji technicznych lub zgłaszania problemów:
 
-[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-art)
+[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-blog)
 
 ### Czas Odpowiedzi
 

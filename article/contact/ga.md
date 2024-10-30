@@ -21,7 +21,7 @@ Lean sinn ar na meáin shóisialta chun fanacht suas chun dáta lenár nuacht ag
 
 Le haghaidh plé teicniúil nó chun fadhbanna a thuairisciú:
 
-[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-art)
+[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-blog)
 
 ### Am Freagartha
 

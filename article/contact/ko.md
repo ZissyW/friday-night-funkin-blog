@@ -21,7 +21,7 @@ createdAt: 2024-10-29
 
 기술적인 논의나 문제 보고를 위해:
 
-[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-art)
+[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-blog)
 
 ### 응답 시간
 
