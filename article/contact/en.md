@@ -1,38 +1,36 @@
 ---
-title: Contact Us for Pumpkin Café
+title: Contact Us for Friday Night Funkin Art
 description: We'd love to hear from you! Whether you have questions, feedback, or just want to say hello, feel free to reach out to us using any of the methods below.
 createdAt: 2024-10-29
 ---
 
-We'd love to hear from you! Whether you have questions, feedback, or just want to say hello, feel free to reach out to us using any of the methods below.
+### Email
 
-## Email
+For general inquiries, support, or feedback, you can reach us at:
 
-For general inquiries, support, or feedback:
+[hi@fridaynightfunkin.art](mailto:hi@fridaynightfunkin.art)
 
-[hi@pumpkincafe.org](mailto:hi@pumpkincafe.org)
+### Social Media
 
-## Social Media
+Follow us on social media to stay updated with our latest news and updates:
 
-Connect with us on social media for the latest updates, community events, and more:
+- Twitter: [@FridayNightFunkinArt](https://twitter.com/friday-night-funkin-art)
+- Instagram: [@FridayNightFunkinArt](https://instagram.com/friday-night-funkin-art)
 
-- Twitter: [@PumpkinCafe](https://twitter.com/pumpkin-cafe)
-- Instagram: [@PumpkinCafe](https://instagram.com/pumpkin-cafe)
+### GitHub
 
-## Bug Reports and Feature Requests
+For technical discussions or to report issues:
 
-If you've encountered a bug or have a suggestion for improving Pumpkin Café, please submit it through our GitHub repository:
+[Friday Night Funkin Art GitHub](https://github.com/ZissyW/friday-night-funkin-art)
 
-[Pumpkin Café GitHub](https://github.com/ZissyW/pumpkin-cafe)
+### Response Time
 
-## Support Hours
+We strive to respond to all inquiries within 24-48 hours during business days. However, response times may vary depending on the volume of messages we receive.
 
-Our support team is available to assist you:
+### Business Hours
 
-Monday - Friday: 9:00 AM - 6:00 PM (EST)
-Saturday: 10:00 AM - 4:00 PM (EST)
-Sunday: Closed
+Our team is available Monday through Friday, 9:00 AM to 5:00 PM (UTC+8).
 
-We strive to respond to all inquiries within 24-48 hours during business days.
+### Thank You
 
-Thank you for your interest in Pumpkin Café. We look forward to hearing from you and creating amazing music together!
+Thank you for your interest in Friday Night Funkin Art. We look forward to hearing from you and creating amazing music together!

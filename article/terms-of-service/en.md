@@ -1,51 +1,48 @@
 ---
-title: Terms of Service for Pumpkin Café
-description: Welcome to pumpkincafe.org! These Terms of Service ("Terms") govern your use of the Pumpkin Café website located at pumpkincafe.org, including all content, services, and products available at or through the website. The Website is owned and operated by Pumpkin Café ("we", "us", or "our").
+title: Terms of Service for Friday Night Funkin Art
+description: Welcome to fridaynightfunkin.art! These Terms of Service ("Terms") govern your use of the Friday Night Funkin Art website located at fridaynightfunkin.art, including all content, services, and products available at or through the website. The Website is owned and operated by Friday Night Funkin Art ("we", "us", or "our").
 createdAt: 2024-10-29
 ---
 
-Welcome to pumpkincafe.org! These Terms of Service ("Terms") govern your use of the Pumpkin Café website located at [pumpkincafe.org](https://pumpkincafe.org/) ("Website"), including all content, services, and products available at or through the website. The Website is owned and operated by Pumpkin Café ("we", "us", or "our").
+Welcome to fridaynightfunkin.art! These Terms of Service ("Terms") govern your use of the Friday Night Funkin Art website located at [fridaynightfunkin.art](https://fridaynightfunkin.art/) ("Website"), including all content, services, and products available at or through the website. The Website is owned and operated by Friday Night Funkin Art ("we", "us", or "our").
 
-## 1. Acceptance of Terms
+### 1. Acceptance of Terms
 
-By accessing or using our Website, you agree to be bound by these Terms, including our Privacy Policy found at [pumpkincafe.org/privacy-policy](https://pumpkincafe.org/privacy-policy). If you disagree with any part of the terms, then you do not have permission to access the Website.
+By accessing or using the Website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Website.
 
-## 2. Use of Website
+### 2. Services
 
-Pumpkincafe.org offers AI-powered image generation services, enabling users to create unique images using artificial intelligence. These services are provided to you free of charge for personal, non-commercial use.
+fridaynightfunkin.art offers AI-powered image generation services, enabling users to create unique images using artificial intelligence. These services are provided to you free of charge for personal, non-commercial use.
 
 ### 2.1 Ownership of Generated Content
 
-The ownership of any content generated using pumpkincafe.org's services belongs to Pumpkin Café, subject to the terms outlined herein.
+The ownership of any content generated using fridaynightfunkin.art's services belongs to Friday Night Funkin Art, subject to the terms outlined herein.
 
-## 3. User Data
+### 3. User Conduct
 
-In order to provide our services, we collect certain personal information from our users, such as name, email, and payment information. Our use of your personal information is governed by our Privacy Policy.
+You agree not to:
+- Violate any laws or regulations
+- Infringe on intellectual property rights
+- Upload harmful content or malware
+- Attempt to gain unauthorized access
+- Use the service for commercial purposes without permission
 
-## 4. Non-Personal Data Collection
+### 4. Intellectual Property
 
-We also collect non-personal data through web cookies as described in our Privacy Policy.
+All content on the Website is owned by or licensed to us and is protected by copyright and other intellectual property laws.
 
-## 5. Prohibited Uses
+### 5. Disclaimer of Warranties
 
-You agree not to use the Website:
+The Website is provided "as is" without any warranties, express or implied.
 
-- For any unlawful purpose
-- To solicit others to perform or participate in any unlawful acts
-- To harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability
-- To make any unauthorised copies, modify, adapt, translate, reverse engineer, disassemble, decompile or create any derivative works of the services or any content of our Platform included therein, including any files, tables or documentation (or any portion thereof) or determine or attempt to determine any source code, algorithms, methods or techniques embodied by the Services or any derivative works thereof
-- To distribute, license, transfer, or sell, in whole or in part, any of the Services or any derivative works thereof
+### 6. Limitation of Liability
 
-## 6. Changes to Terms
+We shall not be liable for any damages arising from the use of our Website or services.
 
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+### 7. Changes to Terms
 
-## 7. Governing Law
+We reserve the right to modify these Terms at any time. Changes will be effective immediately upon posting.
 
-These Terms shall be governed and construed in accordance with the laws of the United States, without regard to its conflict of law provisions.
+### 8. Contact
 
-## 8. Contact Us
-
-If you have any questions about these Terms, please contact us at [hi@pumpkincafe.org](mailto:hi@pumpkincafe.org).
-
-By using our Website, you acknowledge that you have read and understand these Terms of Service and agree to be bound by them.
+If you have any questions about these Terms, please contact us at [hi@fridaynightfunkin.art](mailto:hi@fridaynightfunkin.art).

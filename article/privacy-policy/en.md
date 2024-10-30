@@ -1,48 +1,51 @@
 ---
-title: Privacy Policy for Pumpkin Café
-description: Welcome to pumpkincafe.org! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located. This policy applies to all users of the Website.
+title: Privacy Policy for Friday Night Funkin Art
+description: Welcome to fridaynightfunkin.art! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located. This policy applies to all users of the Website.
 createdAt: 2024-10-29
 ---
 
-Welcome to pumpkincafe.org! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located at [pumpkincafe.org](https://pumpkincafe.org/). This policy applies to all users of the Website.
+Welcome to fridaynightfunkin.art! Your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and handle your personal information on our website located at [fridaynightfunkin.art](https://fridaynightfunkin.art/). This policy applies to all users of the Website.
 
-## 1. Information We Collect
+### 1. Information We Collect
 
-1.1 Personal Data
+We collect information that you provide directly to us, including:
+- Account information (if applicable)
+- Usage data
+- Device information
+- Cookies and similar technologies
 
-We collect personal information that you voluntarily provide to us when you use our services. This information includes your:
+### 2. How We Use Your Information
 
-- Name
-- Email address
+We use the collected information to:
+- Provide and maintain our services
+- Improve user experience
+- Analyze usage patterns
+- Communicate with users
+- Prevent fraud and abuse
 
-### 1.2 Non-Personal Data
+### 3. Information Sharing
 
-We also collect non-personal information through web cookies. This includes information about your browsing behavior on our Website.
+We do not sell or rent your personal information to third parties. We may share your information only in the following circumstances:
+- With your consent
+- To comply with legal obligations
+- To protect our rights and safety
 
-## 2. Purpose of Data Collection
+### 4. Data Security
 
-We collect your personal data solely for improving our website and services.
+We implement appropriate security measures to protect your information. However, no method of transmission over the Internet is 100% secure.
 
-## 3. Data Sharing
+### 5. Your Rights
 
-We do not share your personal information with any third parties, except as necessary to provide our services or as required by law.
+You have the right to:
+- Access your personal information
+- Correct inaccurate data
+- Request deletion of your data
+- Opt-out of communications
 
-## 4. Children's Privacy
+### 6. Changes to This Policy
 
-Our Website does not address anyone under the age of 13. We do not knowingly collect personal information from children. If we become aware that we have collected personal data from children without verification of parental consent, we take steps to remove that information from our servers.
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page.
 
-## 5. Use of Cookies
+### 7. Contact Us
 
-We use cookies to enhance your experience on our Website. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information.
-
-## 6. Changes to Our Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top of this Privacy Policy. We will also inform you via email of significant changes.
-
-## 7. Your Consent
-
-By using our Website, you consent to our Privacy Policy.
-
-## 8. Contact Us
-
-If you have any questions about our Privacy Policy, please contact us at [hi@pumpkincafe.org](mailto:hi@pumpkincafe.org).
+If you have any questions about our Privacy Policy, please contact us at [hi@fridaynightfunkin.art](mailto:hi@fridaynightfunkin.art).
